@@ -1,12 +1,12 @@
 {
     "captcha_service": "capmonster/2captcha",
-    "captcha_api_key": "",
-    "invite": "Invite / InviteCode",
+    "captcha_api_key": "6LebAzEsAAAAAExZKKufK9nVaQoaokeFrH4dejUc",
+    "invite": "https://discord.gg/FSKGKFFn5Z",
     "joinDelay": 3000,
     "useProxies": false,
     "boost": {
         "enabled": false,
         "delay": 3000,
-        "serverId": "serverId"
+        "serverId": "1451664465698226256"
     }
 }
